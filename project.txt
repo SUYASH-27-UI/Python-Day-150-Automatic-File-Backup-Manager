@@ -1,0 +1,3 @@
+Project Name: Automatic Backup Manager
+Language: Python
+Purpose: Protect important files.
